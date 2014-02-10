@@ -3,6 +3,8 @@ LeapControlTower
 
 Control a flight shooting game on iOS with Leap Motion through [Firebase](https://www.firebase.com/) data sync service.
 
+[![Youtude screenshot](http://img.youtube.com/vi/6kGG6vjnP2k/0.jpg)](http://www.youtube.com/watch?v=Y6kGG6vjnP2k)
+
 ## Requirements
 
 This project uses ARC and Xcode 5 to build. It also uses cocoapods to manage dependencies.
